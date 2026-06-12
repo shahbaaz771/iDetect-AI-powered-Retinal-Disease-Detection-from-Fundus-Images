@@ -4,7 +4,7 @@
 ### Authors
 - **Team:** Shahbaaz Ahmed Sadiq, Fahad Alothman
 - **Supervisor Name:** Dr. Muzammil Behzad
-- **Affiliations:** SABIC, ARAMCO and KFUPM (write your institution name, and/or KFUPM)
+- **Affiliations:** SABIC, ARAMCO and KFUPM 
 
 ## Introduction
 Retinal diseases such as diabetic retinopathy, glaucoma, and age-related macular degeneration are among the leading causes of vision loss worldwide. Detecting these conditions early through color fundus imaging is critical, since timely treatment can often prevent permanent damage. However, manual diagnosis is not only time-consuming but also heavily dependent on the availability and expertise of ophthalmologists, which creates challenges in many parts of the world. Advances in artificial intelligence, particularly in deep learning, have opened new possibilities for automating this process and making retinal disease screening more accurate and accessible. Building on recent research in vision–language models, this project, titled iDetect: AI powered Retinal Disease Detection from Fundus Images, focuses on developing an intelligent system that can classify retinal diseases using the Peacein color fundus eye dataset. By combining state-of-the-art pretrained models with fine-tuning for specific conditions, the project aims to create a tool that could support doctors in making faster and more reliable diagnoses, ultimately helping patients receive timely care.
